@@ -1,0 +1,4 @@
+app = "aether-sanctuary"
+
+[env]
+  PORT = "8080"
